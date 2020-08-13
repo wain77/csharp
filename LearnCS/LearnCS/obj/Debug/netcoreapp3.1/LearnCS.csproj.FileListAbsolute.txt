@@ -1,0 +1,13 @@
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.exe
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.deps.json
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.json
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.dev.json
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.pdb
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.csprojAssemblyReference.cache
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfoInputs.cache
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfo.cs
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.csproj.CoreCompileInputs.cache
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.pdb
+C:\Users\sam.wainwright\OneDrive - Boohoo.com\csharp\LearnCS\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.genruntimeconfig.cache
